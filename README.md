@@ -72,6 +72,7 @@ Image | jpeg | image/jpeg
 Image | png | image/png
 Image | gif | image/gif
 Image | webp | image/webp
+Application | pdf | application/pdf
 
 ## Security
 
